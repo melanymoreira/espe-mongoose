@@ -1,6 +1,7 @@
-DEPARTAMENTO: Ciencias de la Computación  CARRERA: Ingeniería en Tecnolgías de la Información  
-ASIGNATURA: Aplicaciones Distribuidas  NIVEL: 7to  FECHA: 28/06/2025  
-DOCENTE: Ing. Paulo Galarza  PRÁCTICA N°: 1   
+| **DEPARTAMENTO:** Ciencias de la Computación | **CARRERA:** Ingeniería en Tecnologías de la Información |
+|----------------------------------------------|----------------------------------------------------------|
+| **ASIGNATURA:** Aplicaciones Distribuidas    | **NIVEL:** 7to           | **FECHA:** 28/06/2025     |
+| **DOCENTE:** Ing. Paulo Galarza              | **PRÁCTICA N°:** 1       | **CALIFICACIÓN:**         |
 
 # Implementación de una API RESTful con Node.js, Express y MongoDB usando Mongoose
 
