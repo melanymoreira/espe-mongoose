@@ -3,6 +3,8 @@
 | **ASIGNATURA:** Aplicaciones Distribuidas    | **NIVEL:** 7to           | **FECHA:** 28/06/2025     |
 | **DOCENTE:** Ing. Paulo Galarza              | **PRÁCTICA N°:** 1       | **CALIFICACIÓN:**         |
 
+**Repositorio GitHub:** [https://github.com/melanymoreira/espe-mongoose.git](https://github.com/melanymoreira/espe-mongoose.git)
+
 # Implementación de una API RESTful con Node.js, Express y MongoDB usando Mongoose
 
 **Nombre del estudiante:**  
