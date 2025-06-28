@@ -7,7 +7,6 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: password123
     volumes:
       - ./data-mongo/db:/data/db
-      - ./data-mongo/config:/etc/mongod.conf
     ports:
       - 27017:27017
     restart: unless-stopped
